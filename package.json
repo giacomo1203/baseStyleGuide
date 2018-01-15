@@ -1,0 +1,27 @@
+{
+  "name": "dmeo-gulp",
+  "version": "1.0.0",
+  "description": "Solo un demo de gulp task",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "keywords": [
+    "gulp",
+    "yeah",
+    "code"
+  ],
+  "author": "Giacomo",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-markdown-to-json": "^1.0.3",
+    "gulp-marked": "^1.0.0",
+    "gulp-marked-json": "^1.1.0",
+    "gulp-pug": "^3.3.0",
+    "marked": "^0.3.12",
+    "prismjs": "^1.9.0",
+    "pug": "^2.0.0-rc.4"
+  }
+}
